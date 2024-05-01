@@ -1,0 +1,9 @@
+pip numpy==1.26.4
+pip pillow==10.2
+pip pydantic==2.6.4
+pip keras==2.8.0
+pip fastapi==0.110.0
+
+
+
+
