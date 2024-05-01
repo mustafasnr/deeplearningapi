@@ -1,8 +1,8 @@
-pip numpy==1.26.4
-pip pillow==10.2
-pip pydantic==2.6.4
-pip keras==2.8.0
-pip fastapi==0.110.0
+pip install numpy==1.26.4
+pip install pillow==10.2
+pip install pydantic==2.6.4
+pip install keras==2.8.0
+pip install fastapi==0.110.0
 
 
 
