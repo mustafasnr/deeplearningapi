@@ -7,7 +7,7 @@ Bu proje için Anaconda ortamını kullanmanız gerekmektedir. Aşağıdaki adı
 Eğer Anaconda ortamınız varsa, terminalde aşağıdaki komutu yazarak ortamı aktifleştirin:
 
 ```bash
-conda activate <ortam_adı>
+conda activate ORTAM_ADI
 ```
 ## Adım 2: Uvicorn Sunucusunu Başlatın
 ```bash
