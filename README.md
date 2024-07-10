@@ -9,7 +9,11 @@ Eğer Anaconda ortamınız varsa, terminalde aşağıdaki komutu yazarak ortamı
 ```bash
 conda activate ORTAM_ADI
 ```
-## Adım 2: Uvicorn Sunucusunu Başlatın
+## Adım 2: Dosya Dizinine Gitme
+```bash
+cd /d FOLDER_PATH
+```
+## Adım 3: Uvicorn Sunucusunu Başlatın
 ```bash
 uvicorn main:app --host 0.0.0.0
 ```
