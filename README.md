@@ -8,3 +8,8 @@ Eğer Anaconda ortamınız varsa, terminalde aşağıdaki komutu yazarak ortamı
 
 ```bash
 conda activate <ortam_adı>
+```
+## Adım 2: Uvicorn Sunucusunu Başlatın
+```bash
+uvicorn main:app --host 0.0.0.0
+```
